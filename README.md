@@ -3,7 +3,7 @@
 
 - 🎒 A procura de um estágio 
 - 📘 Estudando para me tornar um Fullstack Developer Junior
-- 😊 pronouns: ele/dele
+
 
 <div>
  
