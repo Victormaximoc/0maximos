@@ -1,8 +1,7 @@
 ###   Olá! Eu sou Victor Maximo
 ##
 
-- 🎒 A procura de um estágio 
-- 📘 Estudando para me tornar um Fullstack Developer Junior
+
 
 
 <div>
