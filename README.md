@@ -1,6 +1,6 @@
 ###  Hi there 👋
 ##
-- 💼 Today I work with frontend 
+- 💼 Today I work with front-end 
 - 🌱 Studying to be a full-stack dev
 
 
@@ -22,7 +22,6 @@
 </div>
   
   ##
-  
   <div>
     <a href="https://wa.me/5581998048715" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a> 
     <a href="https://www.instagram.com/0maximos_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
